@@ -1,1 +1,23 @@
+[
+  {
+    "userName": "Ritu",              // Username for login and display (e.g., "Ritu")
+    "password": "Ritu@12345",              // Password for login (e.g., "securePass123")
+    "walletAddress": "XXMTNA234Y6G",         // Wallet Address/Invoice No (e.g., "XXMTNA234Y6G")
+    "referralCode": "REF02423",          // Referral Code (e.g., "REF02423")
+    "stakeToken": "X7K9P2",            // 6-digit or full stake token (e.g., "QTRWDY" or AES-encrypted token)
+  },
+ {
+    "userName": "Gurmeet Singh",             
+    "password": "Gurmeet@12345",              // Password for login (e.g., "securePass123")
+    "walletAddress": "BPDTKEK352GG",         // Wallet Address/Invoice No (e.g., "XXMTNA234Y6G")
+    "referralCode": "LTAE9O",          // Referral Code (e.g., "REF02423")
+    "stakeToken": "LTAE9O",            // 6-digit or full stake token (e.g., "QTRWDY" or AES-encrypted token)
+  },
 
+    "userName": "Mohit Kumar",              
+    "password": "Gurmeet@12345",              
+    "walletAddress": "YSY0KZXP0WRT",         
+    "referralCode": "REF01a7b",          
+    "stakeToken": "0DZIOX",            
+  ...
+]
