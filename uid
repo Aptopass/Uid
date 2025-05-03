@@ -5,8 +5,7 @@
         "walletAddress": "YSY0KZXP0WRT",
         "referralCode": "REF01a7b",
         "stakeToken": "0DZIOX",
-        "stakeAmount": 20833.33,
-        "uplineReferralCode": "REFdc5a"
+        
     },
     {
         "userName": "Gurmeet Singh",
@@ -14,7 +13,6 @@
         "walletAddress": "BPDTKEK352GG",
         "referralCode": "LTAE9O",
         "stakeToken": "1ABCDE",
-        "stakeAmount": 20833.33,
-        "uplineReferralCode": "REF01a7b"
+       
     }
 ]
