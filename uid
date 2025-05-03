@@ -1,14 +1,14 @@
 [
     {
         "userName": "Mohit Kumar",
-        "password": "Pass1234",
+        "password": "Pass123",
         "walletAddress": "YSY0KZXP0WRT",
         "referralCode": "REF01a7b",
         "stakeToken": "0DZIOX"
     },
     {
         "userName": "Ritu",
-        "password": "Pass4567",
+        "password": "Pass456",
         "walletAddress": "XXMTNA234Y6G",
         "referralCode": "REF02423",
         "stakeToken": "QTRWDY"
