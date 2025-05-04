@@ -14,8 +14,43 @@
         "stakeToken": "KUV62M"
     },
     {
+        "userName": "Rajindersingh",
+        "password": "Pass1234",
+        "walletAddress": "H6NWGDZGV9AA",
+        "referralCode": "REF9d3e9",
+        "stakeToken": "QTRWDY"
+    },
+    {
+        "userName": "Gurmeetsingh",
+        "password": "Pass1234",
+        "walletAddress": "BPDTKEK352GG",
+        "referralCode": "LTAE9O",
+        "stakeToken": "LTAE9O"
+    },
+    {
+        "userName": "Pankajgarg",
+        "password": "Pass1234",
+        "walletAddress": "GCZ0LWL8HYA8",
+        "referralCode": "REF33641",
+        "stakeToken": "045KGH"
+    },
+    {
+        "userName": "Lalitbhagria",
+        "password": "Pass1234",
+        "walletAddress": "766D7ODPN92I",
+        "referralCode": "REFff540",
+        "stakeToken": "EV22SF"
+    },
+    {
+        "userName": "Anu",
+        "password": "Pass1234",
+        "walletAddress": "6DNNC4IAS3MP",
+        "referralCode": "REF6fd3a",
+        "stakeToken": "MAG1N2"
+    },
+    {
         "userName": "Ritu",
-        "password": "Pass4567",
+        "password": "Pass1234",
         "walletAddress": "XXMTNA234Y6G",
         "referralCode": "REF02423",
         "stakeToken": "QTRWDY"
